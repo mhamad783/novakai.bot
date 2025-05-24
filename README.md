@@ -1,0 +1,2 @@
+# novakai.bot
+novakai bot
